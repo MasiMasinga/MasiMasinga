@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MasiMasinga
-- 👀 I’m interested in **Learning new Technologies**.
+- 👀 I’m interested in **learning new technologies**.
 - 🌱 I’m currently learning **React, React Native and Node.js**.
 - 💞️ I’m looking to collaborate on **Frontend Projects**.
 - 📫 How to reach me **masingamasibonge@gmail.com**
