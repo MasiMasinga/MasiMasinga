@@ -2,7 +2,6 @@
 - 👀 I’m interested in **learning new technologies**.
 - 🌱 I’m currently learning **React, Next.js, React Native and Vue**.
 - 💞️ I’m looking to collaborate on **Frontend Projects**.
-- 📫 How to reach me **masingamasibonge@gmail.com**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
