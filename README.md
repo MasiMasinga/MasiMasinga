@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MasiMasinga
 - 👀 I’m interested in **learning new technologies**.
-- 🌱 I’m currently learning **Flutter, React, Next.js, React Native and Vue**.
+- 🌱 I’m currently learning **React, Next.js, React Native, Vue and Flutter**.
 - 💞️ I’m looking to collaborate on **Frontend Projects**.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
